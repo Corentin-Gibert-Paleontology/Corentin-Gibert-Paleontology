@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Corentin-Gibert-Paleontology
 - 👀 I’m interested in Ecology, Palaeontology and R/C++ development
-- 🌱 I’m currently learning Habitat Suitability Models
-- 💞️ I’m looking to collaborate on Dispersal with modern ecologists
+- 🌱 I’m currently focusing on Habitat Suitability Models and Community Assembly Processes
+- 💞️ I’m looking to collaborate on Dispersal and community structure with modern ecologists
 - 📫 How to reach me : corentingibert@gmail.com
 
 <!---
